@@ -3,6 +3,10 @@ raw_data/
 processed_data/
 results/
 outputs/
+figure/
+table/
+logs/
+tmp/
 .env
 .env.*
 __pycache__/
@@ -11,6 +15,8 @@ __pycache__/
 .Rhistory
 .RData
 .Rproj.user/
+renv/library/
+renv/staging/
 *.rds
 *.fastq*
 *.bam
